@@ -83,13 +83,14 @@ nav a {
 /* Block elements styles */
 #block-elements {
   /* Set the background color for block elements */
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 0);
   /* Set the border color for block elements */
   border: 1px solid #dddddd;
+  padding: 10px;
 }
 
 /* Inline elements styles */
 #inline-elements {
   /* Set the background color for inline elements */
-  background-color: #e0e0e0;
+  background-color: rgb(255, 255, 255);
 }
